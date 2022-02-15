@@ -12,7 +12,7 @@ body {
   justify-content: center;
   font-family: "Zen Kurenaido", sans-serif;
   color: #fff;
-  line-height: 110%;
+  line-height: 50%;
 }
 .title {
   font-size: 3rem;
@@ -43,4 +43,12 @@ h1 {
 
 .t {
   padding: 3%;
+}
+
+.greet {
+  font-size: 90px;
+  color: #fff;
+  font-weight: bolder;
+  text-decoration: underline;
+  justify-self: center;
 }
